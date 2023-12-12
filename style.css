@@ -1,0 +1,12 @@
+#movie-res {
+  text-align: center;
+  width: 100%;
+}
+
+#Movie-image {
+  width: 300px;
+  height: 300px;
+}
+#long-description p {
+  width: 75%;
+}
